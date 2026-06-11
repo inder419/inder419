@@ -1,36 +1,130 @@
-![MasterHead](https://github.com/sachin11p12/sachin11p12/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Sachin Tiwari</h1>
-<h3 align="center">Software Engineer | React, Next.js, Tailwind | Learning Java Full-Stack</h3>
-<img  alt="coding "align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtyM3RxYzVxdHV0dGhkNDRrOG5hMWl0dWxlNnl5d3RrODNkM2libSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin11p12&label=Profile%20views&color=0e75b6&style=flat" alt="sachin11p12" />  </p>
+```md
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Inderjeet%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Automation&descAlignY=55)
 
-- 🔭 I’m currently working on <a href="https://www.Kikdrama.com/">Kikdrama.com </a>
+<h1 align="center">Hi 👋, I'm Inderjeet Kumar</h1>
 
-- 🌱 I’m currently learning **SpringBoot**
+<h3 align="center">
+Full-Stack Software Engineer | MERN Stack | Next.js | Shopify | AI Automation
+</h3>
 
-<!--- 🤝 I’m looking for help with <a href="https://github.com/sachin11p12/Bank-Management-System#">Social Media app</a> -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-- 💬 Ask me about **React, Nextjs, TypeScript, JavaScript , Taiwindcss  SpringBoot**
-
-- 📫 How to reach me **sachin11p12@gmail.com**
-
-<!-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Lun_lrBD6Ow5kzgrRcbteOKJPVph-tO6/view?usp=sharing">Link</a> -->
-
-- ⚡ Love video gaming
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sachin-tiwari-18s21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-tiwari-18s21" height="30" width="40" /></a>
-<a href="https://instagram.com/sachin_rcb_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin_rcb_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachin_1821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_1821" height="30" width="40" /></a>
-<a href="https://linktr.ee/sachin11p12" target="blank"><img align="center" src="https://github.com/phosphor-icons/core/blob/main/assets/regular/linktree-logo.svg" alt="sachin_1821" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=inderjeetkumar&label=Profile%20Views&color=0e75b6&style=flat" alt="inderjeetkumar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin11p12&show_icons=true&locale=en&layout=compact" alt="sachin11p12" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin11p12&show_icons=true&locale=en" alt="sachin11p12" /></p>
+- 🔭 Currently building **SaaS products, Shopify Apps, and AI-powered solutions**
+- 🌱 Learning **Java Spring Boot & System Design**
+- 💡 Passionate about **AI Automation, Video Commerce, and Scalable Applications**
+- 👨‍💻 4+ years of experience building production-grade web applications
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, Shopify, Java, Spring Boot**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: I enjoy solving DSA problems and exploring new technologies.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin11p12&" alt="sachin11p12" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+</a>
+
+<a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30"/>
+</a>
+
+<a href="https://github.com/YOUR-GITHUB" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
+</a>
+
+<a href="https://linktr.ee/YOUR-LINKTREE" target="_blank">
+<img src="https://cdn.simpleicons.org/linktree" width="30" height="30"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🎥 Videostori
+SaaS video commerce platform with Shopify integration featuring:
+- Shoppable videos
+- Analytics dashboard
+- Video management
+- Shopify app extensions
+
+### 🤖 AI Workflow Automation
+Built automation solutions involving:
+- Resume processing
+- Email generation
+- ComfyUI integrations
+- AI image workflows
+
+### 🛍️ Shopify Applications
+Developed custom Shopify apps and storefront experiences using:
+- Next.js
+- Node.js
+- Prisma
+- Shopify APIs
+
+---
+
+### ✨ "Code. Build. Automate. Repeat."
+```
